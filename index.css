@@ -1,0 +1,43 @@
+
+
+a , img , p {
+    display: inline-block;
+}
+
+a {
+    padding: 10px;
+    padding-right: 10px;
+    margin: 25px;
+}
+
+h1 , h2 , h3 {
+    text-align: center;
+    background-color: #FED049;
+    color: #65647C;
+    margin: 0;
+}
+
+p {
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 25px;
+    color: #EFF5F5;
+}
+
+
+/* Class Selector */
+
+.star_sports_3 {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+}
+
+.class_1 {
+    background-color: #2A3990;
+}
+
+
+
+
